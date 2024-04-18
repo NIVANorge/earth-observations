@@ -1,4 +1,4 @@
-name: Build and Push earth-observations-snap
+name: Build and Push earth-observations
 
 on:
   push:
@@ -10,10 +10,10 @@ on:
 
 jobs:
   build-push:
-    name: earth-observations-snap
+    name: earth-observations
     uses: ./.github/workflows/build-push.yaml
     with:
-      image_name: earth-observations-snap
+      image_name: earth-observations
     secrets:
       workload_identity_provider: ${{secrets.WORKLOAD_IDENTITY_PROVIDER}}
       workload_identity_sa: ${{secrets.WORKLOAD_IDENTITY_SA}}
