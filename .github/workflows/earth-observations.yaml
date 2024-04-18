@@ -5,13 +5,13 @@ on:
     branches:
       - main
     paths:
-      - 'NIVANorge/earth-observations/.github/workflows/earth-observations.yml'
+      - '.github/workflows/earth-observations.yaml'
       - 'Dockerfile'
 
 jobs:
   build-push:
     name: earth-observations-snap
-    uses: .github/workflows/build-push.yml@main
+    uses: ./.github/workflows/build-push.yaml
     with:
       image_name: earth-observations-snap
     secrets:
