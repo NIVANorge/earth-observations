@@ -38,26 +38,20 @@ RUN . py36/bin/activate
 RUN pip install --upgrade pip && pip install ipykernel
 RUN python3 -m ipykernel install --user --name=SNAP9
 
-#RUN pyenv virtualenv PYTHON_VERSION py36
 
-
-#RUN poetry config virtualenvs.create true
-RUN virtualenvs.prefer-active-python true
-
-# chown $NB_UID:$NB_GID
-# WORKDIR /home/jovyan/work
-COPY pyproject.toml poetry.lock README.md ./
-RUN poetry install
+# RUN poetry config virtualenvs.create true
+# RUN poetry config virtualenvs.prefer-active-python true
+# COPY pyproject.toml poetry.lock README.md ./
+# RUN poetry install
 
 COPY --from=snap /usr/local/snap /usr/local/snap
 ENV PATH="/usr/local/snap/bin:${PATH}"
 
 # Configure the SNAP python module
-# snappy-conf /home/jovyan/.pyenv/versions/3.6.15/bin/python3 /home/jovyan/.pyenv/versions/3.6.15/lib/python3.6/site-packages
 RUN (timeout 20s snappy-conf $HOME/.pyenv/versions/$PYTHON_VERSION/bin/python3 $HOME/.pyenv/versions/$PYTHON_VERSION/lib/python3.6/site-packages; exit 0)
 
-# Place snappy in the python site-packages
-#RUN cp -r $HOME/.snap/snap-python/snappy $HOME/.pyenv/versions/3.6.15/lib/python3.6/site-packages
+
+
 
 
 
