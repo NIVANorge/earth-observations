@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '.github/workflows/earth-observations.yaml'
+      - '.github/workflows/build-push.yaml'
       - 'Dockerfile'
 
 jobs:
