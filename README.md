@@ -11,7 +11,10 @@ Satellite images and products can be downloaded from:
 - Copernicus data space ecosystem [here](https://browser.dataspace.copernicus.eu/)
 - MET Norway [here](https://colhub.met.no/#/home)
 
-### ESa toolkits
+To download
+- sentinelsat python package. Documentation [here](https://github.com/sentinelsat/sentinelsat?tab=readme-ov-file)
+
+### ESA toolkits
 
 
 ### Notes
