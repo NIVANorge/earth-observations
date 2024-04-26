@@ -9,14 +9,23 @@ A headless version (without GUI) of the ESA toolbox called [SNAP](https://step.e
 ### Data sources
 Satellite images and products can be downloaded from:
 - Copernicus data space ecosystem [here](https://browser.dataspace.copernicus.eu/)
-- MET Norway [here](https://colhub.met.no/#/home)
+- MET Norway [here](https://colhub.met.no/#/home) and [here](https://www.satellittdata.no/en)
+- List of [others](https://github.com/kr-stn/awesome-sentinel#data-hubs-and-national-mirrors)
+
 
 To download
 - sentinelsat python package. Documentation [here](https://github.com/sentinelsat/sentinelsat?tab=readme-ov-file)
+- Alternative to sentinelsat [here](https://github.com/SDFIdk/CDSETool)
 
 ### ESA toolkits
+
+
+### Naming conventions
+
+- [Sentinel 2](https://sentinels.copernicus.eu/web/sentinel/user-guides/sentinel-3-olci/naming-convention#:~:text=P%20indicates%20the%20platform%20(O,baseline%20collection%20or%20data%20usage.)
 
 
 ### Notes
 - [SNAP v9](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to+use+the+SNAP-Python+snappy+interface+SNAP+versions+9) needs python 3.6.
 - [SNAP v10](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/2499051521/Configure+Python+to+use+the+new+SNAP-Python+esa+snappy+interface+SNAP+version+10) is expected to be released soon
+https://www.eumetsat.int/
