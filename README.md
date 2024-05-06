@@ -26,7 +26,8 @@ To download
 
 ### Useful links
 - https://eo4society.esa.int/resources/copernicus-rus-training-materials/
-
+- https://github.com/xcube-dev/xcube/tree/main/examples/notebooks
+- 
 ### Notes
 - [SNAP v9](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to+use+the+SNAP-Python+snappy+interface+SNAP+versions+9) needs python 3.6.
 - [SNAP Python guide](https://senbox.atlassian.net/wiki/spaces/SNAP/pages/19300362/How+to+use+the+SNAP+API+from+Python#HowtousetheSNAPAPIfromPython-ExamplesofSNAPAPIusagefromPython)
