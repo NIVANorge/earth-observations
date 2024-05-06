@@ -1,4 +1,4 @@
-# Earth Observation (EO) and Remote Sensing with ESA Sentinel-1 and Sentinel-2 satellites
+# Earth Observation (EO) and Remote Sensing with ESA Sentinel-2 and Sentinel-3 satellites
 
 A headless version (without GUI) of the ESA toolbox called [SNAP](https://step.esa.int/main/toolboxes/snap/) and the python module ´snappy´ is compiled into the Docker image in this repository. The image is then deployed on a JupyterHub server at [hub.p.niva.no](https://hub.p.niva.no). 
 
@@ -22,7 +22,7 @@ To download
 
 ### Naming conventions
 
-- [Sentinel 2](https://sentinels.copernicus.eu/web/sentinel/user-guides/sentinel-3-olci/naming-convention#:~:text=P%20indicates%20the%20platform%20(O,baseline%20collection%20or%20data%20usage.)
+- [Sentinel 2](https://sentinels.copernicus.eu/web/sentinel/user-guides/sentinel-3-olci/naming-convention)
 
 ### Useful links
 - https://eo4society.esa.int/resources/copernicus-rus-training-materials/
