@@ -1,0 +1,9 @@
+.idea
+*.env
+*.png
+*.jpeg
+*.zip
+*.SEN3
+*.SEN3.zip
+*.log
+
