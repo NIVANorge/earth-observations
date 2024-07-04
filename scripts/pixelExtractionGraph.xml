@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<graph id="PixEx">
+    <version>1.0</version>
+    <node id="pixelextraction">
+        <operator>PixEx</operator>
+        <parameters>
+            <sourceProductPaths>${srcProductPaths}</sourceProductPaths>            
+            <exportBands>true</exportBands>
+            <exportTiePoints>true</exportTiePoints>
+            <exportMasks>true</exportMasks>
+            <coordinatesFile>${koordFil}</coordinatesFile> 
+            <timeDifference/>
+            <windowSize>${wSize}</windowSize>
+            <outputDir>${outPutDir}</outputDir>
+            <outputFilePrefix>${outPutFileName}</outputFilePrefix>
+            <exportExpressionResult>true</exportExpressionResult>
+            <aggregatorStrategyType>no aggregation</aggregatorStrategyType>
+            <exportSubScenes>false</exportSubScenes>
+            <subSceneBorderSize>0</subSceneBorderSize>
+            <exportKmz>false</exportKmz>
+            <extractTimeFromFilename>false</extractTimeFromFilename>
+            <dateInterpretationPattern>yyyyMMddhhmmss</dateInterpretationPattern>
+            <filenameInterpretationPattern>*_${startDate}*.nc</filenameInterpretationPattern>
+            <includeOriginalInput>false</includeOriginalInput>
+        </parameters>
+    </node>
+</graph>

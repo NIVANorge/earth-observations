@@ -1,0 +1,145 @@
+ProjectName	StationId	StationCode	LakeName	Name	FullStationName	StationTypeId	StationType	SamplePointId	Lat	Lon	PROJECT_ID	PROJECTS_STATION_ID
+SATINN_MDIR	no_info	STA3-S1709	Mjosa	Skreia_transect	STA3-S - Skreia_transect	1	Innsjo	66492	60.63002	11.15703	12461	no_info
+SATINN_MDIR	no_info	STA4-S2508	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.63342	11.15542	12461	no_info
+SATINN_MDIR	no_info	STA2-S1709	Mjosa	Skreia_transect	STA2-S - Skreia_transect	1	Innsjo	66491	60.63463	11.13865	12461	no_info
+SATINN_MDIR	no_info	STA3-S2508	Mjosa	Skreia_transect	STA3-S - Skreia_transect	1	Innsjo	66492	60.63578	11.14217	12461	no_info
+SATINN_MDIR	72944	STA4-S1008	Mjosa	Skreia_transect	STA4-S - Skreia_transect	1	Innsjo	66493	60.63755	11.15275	12461	no_info
+SATINN_MDIR	no_info	STA4-S2808	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.63775	11.151	12461	no_info
+SATINN_MDIR	no_info	STA2-S2508	Mjosa	Skreia_transect	STA2-S - Skreia_transect	1	Innsjo	66491	60.6385	11.13173	12461	no_info
+SATINN_MDIR	no_info	STA1-S1709	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.64128	11.12092	12461	no_info
+SATINN_MDIR	no_info	STA1-S2508	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.64128	11.12092	12461	no_info
+SATINN_MDIR	no_info	STA1-S2808	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.64128	11.12092	12461	no_info
+SATINN_MDIR	no_info	STA2-S2808	Mjosa	Skreia_transect	STA2-S - Skreia_transect	1	Innsjo	66491	60.64285	11.12088	12461	no_info
+SATINN_MDIR	no_info	STA3-S2808	Mjosa	Skreia_transect	STA3-S - Skreia_transect	1	Innsjo	66492	60.640294	11.136982	12461	no_info
+SATINN_MDIR	72948	STA3-T	Mjosa	Tangen_transect	STA3-T - Tangen_transect	1	Innsjo	66496	60.56752	11.25614	12461	no_info
+SATINN_MDIR	72947	STA2-T	Mjosa	Tangen_transect	STA2-T - Tangen_transect	1	Innsjo	66495	60.56847	11.25218	12461	no_info
+SATINN_MDIR	72946	STA1-T	Mjosa	Tangen_transect	STA1-T - Tangen_transect	1	Innsjo	66494	60.57003	11.24417	12461	no_info
+SATINN_MDIR	72943	STA3-S1008	Mjosa	Skreia_transect	STA3-S - Skreia_transect	1	Innsjo	66492	60.63813	11.14801	12461	no_info
+SATINN_MDIR	72942	STA2-S1008	Mjosa	Skreia_transect	STA2-S - Skreia_transect	1	Innsjo	66491	60.63893	11.13799	12461	no_info
+SATINN_MDIR	72941	STA1-S1008	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.64138	11.11085	12461	no_info
+SATINN_MDIR	31345	M074	Mjosa	Skreia	M074 - Skreia	1	Innsjo	15146	60.6523407	11.0873654	12461	no_info
+SATINN_MDIR	31343	M072	Mjosa	Kise	M072 - Kise	1	Innsjo	15144	60.76450772	10.78860029	12461	no_info
+SATINN_MDIR	31344	M073	Mjosa	Furnesfjorden	M073 - Furnesfjorden	1	Innsjo	15145	60.81853171	10.98020057	12461	no_info
+SATINN_MDIR	31342	M071	Mjosa	Brottum	M071 - Brottum	1	Innsjo	15143	60.99095785	10.57465386	12461	no_info
+SATINN_MDIR	67295	FEM-P	Femunden	Femunden	FEM-P - Femunden	1	Innsjo	62568	62.05555	11.8693	12461	no_info
+SATINN_MDIR	66571	GJE-P	Gjende	Gjende	GJE-P - Gjende	1	Innsjo	61113	61.49295	8.695883	12461	no_info
+SATINN_MDIR	67294	SEL-P	Selbusjoen	Selbusjoen	SEL-P - Selbusjoen	1	Innsjo	62572	63.2604	10.8102	12461	no_info
+SATINN_MDIR	67296	SNÅ-P	Snasavatn	Snåsavatn	SNÅ-P - Snåsavatn	1	Innsjo	62573	64.2083	12.1012	12461	no_info
+SATINN_MDIR	67298	RoS-P	Rossvatn	Rossvatn	RoS-P - Rossvatn	1	Innsjo	62570	65.7683	14.021	12461	no_info
+SATINN_MDIR	67369	SAL-P	Salsvatnet	Salsvatnet	SAL-P - Salsvatnet	1	Innsjo	62571	64.71	11.5719	12461	no_info
+DCS4COP	999	Alnsjøen	Alnsjøen	v/Utløp	Alnsjøen -v/Utløp	1	Innsjo	no_info	59.96599	10.8521	12569	no_info
+Indre Oslofjord	63013	Bl4	Indre Oslofjord	Bærumsbassenget	Bl4 -Bærumsbassenget	0	Marin	no_info	59.880833	10.56885	6302	28140
+Indre Oslofjord	63011	Cq1	Indre Oslofjord	Bekkelagsbassenget	Cq1 -Bekkelagsbassenget	0	Marin	no_info	59.872849	10.736667	6302	28138
+Indre Oslofjord	63109	Aq3	Indre Oslofjord	Bjørvika	Aq3 -Bjørvika	0	Marin	no_info	59.90620286	10.74929143	6302	28664
+Indre Oslofjord	63110	Gp1	Indre Oslofjord	Bunnebotten	Gp1 -Bunnebotten	0	Marin	no_info	59.72511472	10.72596487	6302	28666
+Indre Oslofjord	63012	Ep1	Indre Oslofjord	Bunnefjorden	Ep1 -Bunnefjorden	0	Marin	no_info	59.786301	10.723783	6302	28139
+Indre Oslofjord	63111	Hm6	Indre Oslofjord	Drøbakterskelen	Hm6 -Drøbakterskelen	0	Marin	no_info	59.667683	10.615784	6302	28684
+Indre Oslofjord	63016	IM2	Indre Oslofjord	Elle	IM2 -Elle	0	Marin	no_info	59.622032	10.628217	6302	28143
+Indre Oslofjord	63115	Ap1	Indre Oslofjord	Frognerkilen	Ap1 -Frognerkilen	0	Marin	no_info	59.90901667	10.70113333	6302	28688
+Indre Oslofjord	63114	Gl2	Indre Oslofjord	Håøya	Gl2 -Håøya	0	Marin	no_info	59.717384	10.579634	6302	28687
+Indre Oslofjord	63118	Aq2	Indre Oslofjord	Hovedøya	Aq2 -Hovedøya	0	Marin	no_info	59.8988	10.74486667	6302	28690
+Indre Oslofjord	63128	Ap2	Indre Oslofjord	Kavringen	Ap2 -Kavringen	0	Marin	no_info	59.899	10.718	6302	28665
+Indre Oslofjord	63125	Cj1	Indre Oslofjord	Leangbukta	Cj1 -Leangbukta	0	Marin	no_info	59.84048333	10.50698333	6302	28695
+Indre Oslofjord	63010	Bn1	Indre Oslofjord	Lysakerfjorden	Bn1 -Lysakerfjorden	0	Marin	no_info	59.880634	10.646733	6302	28137
+Indre Oslofjord	63113	Cp2	Indre Oslofjord	Oksvalflua	Cp2 -Oksvalflua	0	Marin	no_info	59.865002	10.701384	6302	28686
+Indre Oslofjord	63112	Hm4	Indre Oslofjord	Oscarsborg	Hm4 -Oscarsborg	0	Marin	no_info	59.675934	10.612483	6302	28685
+Indre Oslofjord	63117	Aq1	Indre Oslofjord	Oslo havn	Aq1 -Oslo havn	0	Marin	no_info	59.90895	10.73043333	6302	28689
+Indre Oslofjord	63120	Br1	Indre Oslofjord	Paddehavet	Br1 -Paddehavet	0	Marin	no_info	59.87381667	10.76475	6302	28691
+Indre Oslofjord	63122	Bk1	Indre Oslofjord	Sandviksbukta	Bk1 -Sandviksbukta	0	Marin	no_info	59.88308333	10.53468333	6302	28692
+Indre Oslofjord	63123	Bk2	Indre Oslofjord	Sandvikselva	Bk2 -Sandvikselva	0	Marin	no_info	59.88843333	10.53826667	6302	28693
+Indre Oslofjord	63015	Fl1	Indre Oslofjord	Søndre Langåra	Fl1 -Søndre Langåra	0	Marin	no_info	59.754066	10.574734	6302	28142
+Indre Oslofjord	63009	Gk1	Indre Oslofjord	Søndre Langåra	Gk1 -Søndre Langåra	0	Marin	no_info	59.701218	10.543083	6302	28136
+Indre Oslofjord	63014	Dk1	Indre Oslofjord	Steilene	Dk1 -Steilene	0	Marin	no_info	59.814999	10.569384	6302	28141
+Indre Oslofjord	71603	Dm1	Indre Oslofjord	Steilene Nord	Dm1 -Steilene Nord	0	Marin	no_info	59.8272	10.6173	6302	54650
+Indre Oslofjord	63124	Ej1	Indre Oslofjord	VEAS	Ej1 -VEAS	0	Marin	no_info	59.79316667	10.51621667	6302	28694
+DCS4COP	no_info	A1	Svalbard	Adventfjorden	A1 -Adventfjorden	0	Marin	no_info	78.22726667	15.67451667	12569	no_info
+DCS4COP	no_info	A3	Svalbard	Adventfjorden	A3 -Adventfjorden	0	Marin	no_info	78.23798333	15.70648333	12569	no_info
+DCS4COP	no_info	A4	Svalbard	Adventfjorden	A4 -Adventfjorden	0	Marin	no_info	78.23801667	15.65513333	12569	no_info
+DCS4COP	no_info	A5	Svalbard	Adventfjorden	A5 -Adventfjorden	0	Marin	no_info	78.24473333	15.62013333	12569	no_info
+DCS4COP	no_info	B1	Svalbard	Adventfjorden	B1 -Adventfjorden	0	Marin	no_info	78.23311667	15.6372	12569	no_info
+DCS4COP	no_info	B2	Svalbard	Adventfjorden	B2 -Adventfjorden	0	Marin	no_info	78.24271667	15.674	12569	no_info
+DCS4COP	no_info	B3	Svalbard	Adventfjorden	B3 -Adventfjorden	0	Marin	no_info	78.23851667	15.6012	12569	no_info
+DCS4COP	no_info	B4	Svalbard	Adventfjorden	B4 -Adventfjorden	0	Marin	no_info	78.25018333	15.6409	12569	no_info
+DCS4COP	no_info	B5	Svalbard	Adventfjorden	B5 -Adventfjorden	0	Marin	no_info	78.24996667	15.5664	12569	no_info
+DCS4COP	no_info	B6	Svalbard	Adventfjorden	B6 -Adventfjorden	0	Marin	no_info	78.2558	15.5881	12569	no_info
+DCS4COP	no_info	B7	Svalbard	Adventfjorden	B7 -Adventfjorden	0	Marin	no_info	78.2605	15.60883333	12569	no_info
+DCS4COP	no_info	B8	Svalbard	Adventfjorden	B8 -Adventfjorden	0	Marin	no_info	78.25838333	15.52673333	12569	no_info
+DCS4COP	no_info	B9	Svalbard	Adventfjorden	B9 -Adventfjorden	0	Marin	no_info	78.2665	15.5504	12569	no_info
+DCS4COP	no_info	A2	Svalbard	Adventfjorden. Bouy	A2 -Adventfjorden. Bouy	0	Marin	no_info	78.23263333	15.68458333	12569	no_info
+DCS4COP	no_info	A6/IsA	Svalbard	Adventfjorden. Munningen. IsA 	A6/IsA -Adventfjorden. Munningen. IsA 	0	Marin	no_info	78.27031667	15.47308333	12569	no_info
+DCS4COP	no_info	no_info	Svalbard	Adventfjorden	Extra1- Adventfjorden 	0	Marin	no_info	78.2326834	15.6894833	12569	no_info
+Ytre Oslofjord	70776	SP-1	Ytre Oslofjord	Sponvika	SP-1 -Sponvika	0	Marin	no_info	59.089708	11.231708	1178	51715
+Ytre Oslofjord	31654	TØ-1	Ytre Oslofjord	Tønsbergfjorden. Vestfjorden	TØ-1 -Tønsbergfjorden. Vestfjorden	0	Marin	no_info	59.202835	10.355416	1178	8008
+Økokyst	70817	VT68	Ytre Oslofjord	Jomfrulandsrenna	VT68 -Jomfrulandsrenna	0	Marin	no_info	58.9069	9.6233	10467	51893
+Økokyst	69083	VT65	Ytre Oslofjord	Missingen	VT65 -Missingen	0	Marin	no_info	59.18667	10.69167	10467	44629
+DCS4COP	no_info	Attjørn	Attjørn	NIVA-Bu	Attjørn -NIVA-Bu	0	Innsjo	no_info	60.86086	8.7269	12569	no_info
+Økokyst	68906	BT137	Ytre Oslofjord	Torbjørnskjær	BT137 -Torbjørnskjær	0	Marin	no_info	59.04092	10.76027	10467	43790
+DCS4COP	no_info	Akerselva	Akerselva	v/Brekkedammen	Akerselva -v/Brekkedammen	0	Innsjo	no_info	59.9658	10.777	12569	no_info
+DCS4COP	no_info	Aremarksjøen	Aremarksjøen	v/Kirkeng	Aremarksjøen -v/Kirkeng	0	Innsjo	no_info	59.24192	11.6787	12569	no_info
+DCS4COP	no_info	Årungen	Årungen	v/Rostadion	Årungen -v/Rostadion	0	Innsjo	no_info	59.69053	10.7447	12569	no_info
+Ytre Oslofjord	31658	S-9	Ytre Oslofjord	Haslau. Singlefjorden	S-9 -Haslau. Singlefjorden	0	Marin	no_info	59.114334	11.161667	1178	8012
+Ytre Oslofjord	31652	D-2	Ytre Oslofjord	Indre Drammensfjord	D-2 -Indre Drammensfjord	0	Marin	no_info	59.627766	10.420983	1178	8006
+Ytre Oslofjord	41762	D-3	Ytre Oslofjord	Indre Drammensfjord. Solumstranda	D-3 -Indre Drammensfjord. Solumstranda	0	Marin	no_info	59.705883	10.313517	1178	5428
+Ytre Oslofjord	42269	KF-1	Ytre Oslofjord	Krokstadfjorden	KF-1 -Krokstadfjorden	0	Marin	no_info	59.310116	10.7689	1178	6152
+Ytre Oslofjord	31664	ID-2	Ytre Oslofjord	Kjellvik. Iddefjorden	ID-2 -Kjellvik. Iddefjorden	0	Marin	no_info	59.0745	11.385033	1178	8018
+Ytre Oslofjord	31663	MO-2	Ytre Oslofjord	Kippenes	MO-2 -Kippenes	0	Marin	no_info	59.484333	10.678083	1178	8017
+Ytre Oslofjord	31653	LA-1	Ytre Oslofjord	Larviksfjorden	LA-1 -Larviksfjorden	0	Marin	no_info	59.019299	10.051566	1178	8007
+Ytre Oslofjord	31656	I-1	Ytre Oslofjord	Ramsø. Østerelva	I-1 -Ramsø. Østerelva	0	Marin	no_info	59.109432	11.001966	1178	8010
+Ytre Oslofjord	31657	R-5	Ytre Oslofjord	Ringdalsfjorden	R-5 -Ringdalsfjorden	0	Marin	no_info	59.111717	11.314266	1178	8011
+Ytre Oslofjord	41763	SF-1	Ytre Oslofjord	Sandefjord	SF-1 -Sandefjord	0	Marin	no_info	59.077351	10.246067	1178	6035
+Ytre Oslofjord	31655	Ø-1	Ytre Oslofjord	Leira. Vesterelva	Ø-1 -Leira. Vesterelva	0	Marin	no_info	59.136501	10.83395	1178	8009
+Ytre Oslofjord	42274	MO-1	Ytre Oslofjord	Indre Mossesundet	MO-1 -Indre Mossesundet	0	Marin	no_info	59.443333	10.65995	1178	no_info
+Ytre Oslofjord	42272	M-4	Ytre Oslofjord	Kambo	M-4 -Kambo	0	Marin	no_info	59.4683	10.675	1178	no_info
+Ytre Oslofjord	42271	M-3	Ytre Oslofjord	Kjellandsvik	M-3 -Kjellandsvik	0	Marin	no_info	59.453	10.662	1178	6154
+Ytre Oslofjord	42276	S-6	Ytre Oslofjord	Kjeøy	S-6 -Kjeøy	0	Marin	no_info	59.087284	11.217633	1178	6156
+Ytre Oslofjord	42267	I-3	Ytre Oslofjord	Kjøkøy Øst	I-3 -Kjøkøy Øst	0	Marin	no_info	59.1465	10.96173	1178	6155
+Ytre Oslofjord	54377	SAN-4	Ytre Oslofjord	Kommersøya - Holmestrand	SAN-4 -Kommersøya - Holmestrand	0	Marin	no_info	59.51694444	10.30083333	1178	6162
+Ytre Oslofjord	70774	KH-1	Ytre Oslofjord	Kongsholmen	KH-1 -Kongsholmen	0	Marin	no_info	59.124056	10.456889	1178	6151
+Ytre Oslofjord	70772	ST-1	Ytre Oslofjord	Krokstadfjorden	ST-1 -Krokstadfjorden	0	Marin	no_info	59.288682	10.729045	1178	19155
+Ytre Oslofjord	31660	FG-1	Ytre Oslofjord	Langesundsfjorden	FG-1 -Langesundsfjorden	0	Marin	no_info	59.03908	9.72323	1178	51718
+Ytre Oslofjord	42270	LØ-1	Ytre Oslofjord	Langøya	LØ-1 -Langøya	0	Marin	no_info	59.48482	10.37355	1178	51719
+Ytre Oslofjord	31665	MFS	Ytre Oslofjord	Marin Forskningsstasjon Solbergstrand	MFS -Marin Forskningsstasjon Solbergstrand	2	Land	no_info	59.6159261	10.6508836	1178	8014
+Ytre Oslofjord	61744	ME-1	Ytre Oslofjord	Mefjorden-Indre	ME-1 -Mefjorden-Indre	0	Marin	no_info	59.099	10.2755	1178	6153
+Ytre Oslofjord	61745	ME-2	Ytre Oslofjord	Mefjorden-Ytre	ME-2 -Mefjorden-Ytre	0	Marin	no_info	59.083	10.285	1178	8019
+Ytre Oslofjord	31648	OF-2	Ytre Oslofjord	Missingene	OF-2 -Missingene	0	Marin	no_info	59.186668	10.691667	1178	22462
+Ytre Oslofjord	42273	M-6	Ytre Oslofjord	N-Jeløya	M-6 -N-Jeløya	0	Marin	no_info	59.505	10.6733	1178	22463
+Ytre Oslofjord	42275	RA-1	Ytre Oslofjord	Rauerfjorden	RA-1 -Rauerfjorden	0	Marin	no_info	59.234852	10.717433	1178	8002
+Ytre Oslofjord	70773	ST-2	Ytre Oslofjord	Rauerfjorden	ST-2 -Rauerfjorden	0	Marin	no_info	59.234667	10.717076	1178	6157
+Ytre Oslofjord	42277	SAN-1	Ytre Oslofjord	Sandebukta	SAN-1 -Sandebukta	0	Marin	no_info	59.56156	10.24442	1178	6158
+Ytre Oslofjord	31662	SAN-3	Ytre Oslofjord	Sandebukta	SAN-3 -Sandebukta	0	Marin	no_info	59.55082	10.25745	1178	51717
+Ytre Oslofjord	42278	SAN-8	Ytre Oslofjord	Sandebukta	SAN-8 -Sandebukta	0	Marin	no_info	59.50907	10.3044	1178	6160
+Ytre Oslofjord	42279	SAN-A	Ytre Oslofjord	Sandebukta	SAN-A -Sandebukta	0	Marin	no_info	59.55572	10.26602	1178	8016
+Ytre Oslofjord	61749	SF-3	Ytre Oslofjord	Sandefjord-Havn1 (Sandf-2)	SF-3 -Sandefjord-Havn1 (Sandf-2)	0	Marin	no_info	59.11667313	10.22569317	1178	6161
+Ytre Oslofjord	61748	SF-2	Ytre Oslofjord	Sandefjord-Trangsholmen2 (Sandf-1)	SF-2 -Sandefjord-Trangsholmen2 (Sandf-1)	0	Marin	no_info	59.1	10.2333	1178	6159
+Ytre Oslofjord	42266	I-2	Ytre Oslofjord	Singlefjorden	I-2 -Singlefjorden	0	Marin	no_info	59.085217	11.159233	1178	23846
+Ytre Oslofjord	42268	ID-1	Ytre Oslofjord	Skysskaffern	ID-1 -Skysskaffern	0	Marin	no_info	59.10158	11.36917	1178	23845
+Ytre Oslofjord	42264	D-4	Ytre Oslofjord	Solbergbukta	D-4 -Solbergbukta	0	Marin	no_info	59.57179	10.41874	1178	6150
+Ytre Oslofjord	70775	BO-1	Ytre Oslofjord	Bolærne	BO-1 -Bolærne	0	Marin	no_info	59.189933	10.536233	1178	6149
+Ytre Oslofjord	31650	OF-5	Ytre Oslofjord	Breiangen	OF-5 -Breiangen	0	Marin	no_info	59.4867	10.4583	1178	6147
+Ytre Oslofjord	31651	OF-7	Ytre Oslofjord	Filtvedt	OF-7 -Filtvedt	0	Marin	no_info	59.59	10.64	1178	51716
+Ytre Oslofjord	31659	BC-1	Ytre Oslofjord	Frierfjorden	BC-1 -Frierfjorden	0	Marin	no_info	59.10437	9.618	1178	8004
+Ytre Oslofjord	31661	GI-1	Ytre Oslofjord	Håøyfjorden	GI-1 -Håøyfjorden	0	Marin	no_info	59.02265	9.79675	1178	8005
+Ytre Oslofjord	31661	OF-4	Ytre Oslofjord	Bastø	OF-4 -Bastø	0	Marin	no_info	59.358665	10.590567	1178	8013
+DCS4COP	26173	221-3-2	Floen	Ulviksjøen	221-3-2 - Floen	1	Innsjo	no_info	59.99142	11.5333	12569	no_info
+DCS4COP	no_info	no_info	Steinsbruvannet	v/Demning Badedammen (OBS 2 prøver?)	stn1_KAS	1	Innsjo	no_info	59.97573	10.883	12569	no_info
+DCS4COP	no_info	no_info	Lysaker Elva	v/Fossum	stn2_KAS	1	Innsjo	no_info	59.9576	10.6309	12569	no_info
+DCS4COP	no_info	no_info	Visterflo	v/Greåker	stn3_KAS	1	Innsjo	no_info	59.2804	11.019	12569	no_info
+DCS4COP	no_info	no_info	DrammensElva	v/Hokksund	stn4_KAS	1	Innsjo	no_info	59.77493	9.9082	12569	no_info
+DCS4COP	no_info	no_info	Skienselva	v/Klosterhagen Skien	stn5_KAS	1	Innsjo	no_info	59.20044	9.6051	12569	no_info
+DCS4COP	no_info	no_info	Rødnesjøen	v/Kroksund	stn6_KAS	1	Innsjo	no_info	59.61211	11.591	12569	no_info
+DCS4COP	no_info	no_info	Østensjøvannet	v/Nordenden (Oslo)	stn7_KAS	1	Innsjo	no_info	59.89326	10.8304	12569	no_info
+DCS4COP	no_info	no_info	Krusetertjern	v/Store Ertevann	stn8_KAS	1	Innsjo	no_info	59.13289	11.5256	12569	no_info
+DCS4COP	no_info	no_info	Tista	v/Tangen Brygge	stn9_KAS	1	Innsjo	no_info	59.12609	11.448	12569	no_info
+DCS4COP	no_info	no_info	Tista	v/Tangen Brygge (Pos utløpFemsjøen)	ØSTETIS - Tista utløp Femsjøen	1	Innsjo	no_info	59.13254	11.4649	12569	no_info
+DCS4COP	no_info	no_info	Drammensfjord	v/Utløp Dr.Elva. Strømsø	stn10_KAS	1	Innsjo	no_info	59.73267	10.2446	12569	no_info
+DCS4COP	no_info	no_info	Gjersjøelva	v/utløp Gjersjøen	stn11_KAS	1	Innsjo	no_info	59.80331	10.7745	12569	no_info
+DCS4COP	no_info	no_info	Fiskumvannnet (Utløp)	v/Vestfossen	stn12_KAS	1	Innsjo	no_info	59.70619	9.8309	12569	no_info
+DCS4COP	no_info	no_info	Bjørkelangen	no_info	stn13_KAS	1	Innsjo	no_info	59.8292	11.4969	12569	no_info
+DCS4COP	no_info	no_info	Lyseren	no_info	stn14_KAS	1	Innsjo	no_info	59.68159	11.0778	12569	no_info
+DCS4COP	41806	MJR	Mjær	Mjær	MJR - Mjær	1	Innsjo	no_info	59.71944	11.0604	12569	no_info
+DCS4COP	no_info	no_info	Kolbotnvannet	no_info	stn15_KAS	1	Innsjo	no_info	59.80403	10.7998	12569	no_info
+DCS4COP	no_info	no_info	Østensjøvann	v/Ås	stn16_KAS	1	Innsjo	no_info	59.68859	10.829	12569	no_info
+DCS4COP	no_info	no_info	Langen	no_info	stn17_KAS	1	Innsjo	no_info	59.77134	10.9297	12569	no_info
+DCS4COP	no_info	no_info	Midtsjøvannet	no_info	stn18_KAS	1	Innsjo	no_info	59.7304	10.8834	12569	no_info
+DCS4COP	no_info	no_info	Nærevannet	no_info	stn19_KAS	1	Innsjo	no_info	59.73128	10.9006	12569	no_info
+												

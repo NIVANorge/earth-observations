@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<graph id="MSI_C2RCC">
+	<version>1.0</version>
+	<node id="resam">
+		<operator>S2Resampling</operator>
+		<sources>
+		  <sourceProduct>${sourceProduct}</sourceProduct>
+		</sources>
+		<parameters>
+		  <targetResolution>${resolution}</targetResolution>
+		  <upsampling>${up}</upsampling>
+		  <downsampling>${down}</downsampling>
+		  <flagDownsampling>${flag}</flagDownsampling>
+		  <resampleOnPyramidLevels>true</resampleOnPyramidLevels>
+		</parameters> 
+	</node>
+	<node id="subset"> <!-- remove the calibrated bands-->
+        <operator>Subset</operator>
+        <sources>
+          <source refid="resam"/>
+        </sources>
+        <parameters>
+            <!-- all bands except radiances -->
+            <sourceBands/>
+            <copyMetadata>true</copyMetadata>
+            <geoRegion>${geometry}</geoRegion>
+        </parameters>
+    </node>
+	<node id="idepix">
+        <operator>Idepix.S2</operator>
+        <sources>
+          <sourceProduct refid="subset"/>
+        </sources>
+        <parameters>
+          <copyToaReflectances>true</copyToaReflectances>
+          <copyFeatureValues>true</copyFeatureValues>
+          <computeMountainShadow>true</computeMountainShadow>
+          <computeCloudShadow>false</computeCloudShadow>
+          <computeCloudBuffer>false</computeCloudBuffer>
+          <computeCloudBufferForCloudAmbiguous>false</computeCloudBufferForCloudAmbiguous>
+          <cloudBufferWidth>2</cloudBufferWidth>
+          <demName>ASTER 1sec GDEM</demName>
+        </parameters>
+    </node>
+    <node id="c2rcc-msi">
+        <operator>c2rcc.msi</operator>
+        <sources>
+          <sourceProduct refid="idepix"/>
+        </sources>
+        <parameters>
+          <validPixelExpression>${validPix}</validPixelExpression>
+          <salinity>${salinity}</salinity>
+          <temperature>15.0</temperature>
+          <ozone>330.0</ozone>
+          <press>1000.0</press>
+          <elevation>${elevation}</elevation>
+          <TSMfakBpart>1.72</TSMfakBpart>
+          <TSMfakBwit>3.1</TSMfakBwit>
+          <CHLexp>1.04</CHLexp>
+          <CHLfak>21.0</CHLfak>
+          <thresholdRtosaOOS>0.05</thresholdRtosaOOS>
+          <thresholdAcReflecOos>0.1</thresholdAcReflecOos>
+          <thresholdCloudTDown865>0.955</thresholdCloudTDown865>
+          <netSet>${netSet}</netSet>
+          <outputAsRrs>true</outputAsRrs>
+          <deriveRwFromPathAndTransmittance>false</deriveRwFromPathAndTransmittance>
+          <outputRtoa>true</outputRtoa>
+          <outputRtosaGc>false</outputRtosaGc>
+          <outputRtosaGcAann>false</outputRtosaGcAann>
+          <outputRpath>false</outputRpath>
+          <outputTdown>false</outputTdown>
+          <outputTup>false</outputTup>
+          <outputAcReflectance>true</outputAcReflectance>
+          <outputRhown>true</outputRhown>
+          <outputOos>false</outputOos>
+          <outputKd>true</outputKd>
+          <outputUncertainties>true</outputUncertainties>
+        </parameters>
+    </node>
+</graph>

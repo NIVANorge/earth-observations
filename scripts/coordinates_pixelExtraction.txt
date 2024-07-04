@@ -1,0 +1,18 @@
+ProjectName	StationId	StationCode	Lake	Name	FullStationName	StationTypeId	StationType	SamplePointId	Lat	Lon
+SATINN_MDIR	31342	M071	Mjosa	Brottum	M071 - Brottum	1	Innsjo	15143	60.99095785	10.57465386
+SATINN_MDIR	31343	M072	Mjosa	Kise	M072 - Kise	1	Innsjo	15144	60.76450772	10.78860029
+SATINN_MDIR	31344	M073	Mjosa	Furnesfjorden	M073 - Furnesfjorden	1	Innsjo	15145	60.81853171	10.98020057
+SATINN_MDIR	31345	M074	Mjosa	Skreia	M074 - Skreia	1	Innsjo	15146	60.6523407	11.0873654
+SATINN_MDIR	66571	GJE-P	Gjende	Gjende	GJE-P - Gjende	1	Innsjo	61113	61.49295	8.695883
+SATINN_MDIR	67294	SEL-P	Selbusjoen	Selbusjoen	SEL-P - Selbusjoen	1	Innsjo	62572	63.2604	10.8102
+SATINN_MDIR	67296	SNÅ-P	Snasavatn	Snåsavatn	SNÅ-P - Snåsavatn	1	Innsjo	62573	64.2083	12.1012
+SATINN_MDIR	67298	RoS-P	Rossvatn	Rossvatn	RoS-P - Rossvatn	1	Innsjo	62570	65.7683	14.021
+SATINN_MDIR	67369	SAL-P	Salsvatnet	Salsvatnet	SAL-P - Salsvatnet	1	Innsjo	62571	64.71	11.5719
+SATINN_MDIR	72941	STA1-S	Mjosa	Skreia_transect (hovedstasjon)	STA1-S - Skreia_transect (hovedstasjon)	1	Innsjo	66489	60.64138	11.11085
+SATINN_MDIR	72942	STA2-S	Mjosa	Skreia_transect	STA2-S - Skreia_transect	1	Innsjo	66491	60.63893	11.13799
+SATINN_MDIR	72943	STA3-S	Mjosa	Skreia_transect	STA3-S - Skreia_transect	1	Innsjo	66492	60.63813	11.14801
+SATINN_MDIR	72944	STA4-S	Mjosa	Skreia_transect	STA4-S - Skreia_transect	1	Innsjo	66493	60.63755	11.15275
+SATINN_MDIR	72946	STA1-T	Mjosa	Tangen_transect	STA1-T - Tangen_transect	1	Innsjo	66494	60.57003	11.24417
+SATINN_MDIR	72947	STA2-T	Mjosa	Tangen_transect	STA2-T - Tangen_transect	1	Innsjo	66495	60.56847	11.25218
+SATINN_MDIR	72948	STA3-T	Mjosa	Tangen_transect	STA3-T - Tangen_transect	1	Innsjo	66496	60.56752	11.25614
+SATINN_MDIR	67295	FEM-P	Femunden	Femunden	FEM-P - Femunden	1	Innsjo	62568	62.05555	11.8693

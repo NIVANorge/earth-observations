@@ -1,0 +1,88 @@
+## ACOLITE Python settings
+## Written at 2018-09-25 18:39:53
+## Author: Sabine Marty
+## Modified 2019-05-06 14:45 by Anna Birgitta Ledang
+## ABL: 07.07.2020
+## ABL: 20.08.2020
+## ABL: 15.10.2020
+## Used as input file for the .exe version of Acolite
+l2w_parameters=Rrs_*,chl_oc2,chl_oc3,t_nechad2016,t_dogliotti,spm_nechad2016,chl_re_gons,chl_re_gons740,chl_re_moses3b,chl_re_moses3b740,ndvi, ndvi_rhot,kd443_qaasw, kd490_qaasw, kd560_qaasw, kd665_qaasw, kdpar_qaasw
+l2w_mask=True
+l2w_mask_wave=1600
+l2w_mask_threshold=0.0215
+l2w_mask_water_parameters=True
+aerosol_correction=dark_spectrum
+ancillary_data=True
+gas_transmittance=True
+uoz_default=0.3
+uwv_default=1.5
+pressure=None
+lut_pressure=True
+dem_pressure=False
+dem_pressure_percentile=25
+sky_correction=True
+sky_correction_option=all
+dsf_path_reflectance=fixed
+dsf_spectrum_option=dark_list
+dsf_full_scene=False
+dsf_model_selection=min_drmsd
+dsf_list_selection=intercept
+dsf_tile_dims=None
+dsf_min_tile_cover=0.10
+dsf_min_tile_aot=0.01
+dsf_plot_retrieved_tiles=True
+dsf_plot_dark_spectrum=True
+dsf_write_tiled_parameters=False
+exp_swir_threshold=0.0215
+exp_fixed_epsilon=True
+exp_fixed_epsilon_percentile=50
+exp_fixed_aerosol_reflectance=True
+exp_fixed_aerosol_reflectance_percentile=5
+exp_wave1=1600
+exp_wave2=2200
+exp_alpha=None
+exp_alpha_weighted=True
+exp_epsilon=None
+exp_gamma=None
+s2_target_res=60
+l8_output_bt=False
+xy_output=False
+gains=False
+gains_l5_tm=1.0,1.0,1.0,1.0,1.0,1.0
+gains_l7_etm=1.0,1.0,1.0,1.0,1.0,1.0
+gains_l8_oli=1.0,1.0,1.0,1.0,1.0,1.0,1.0
+gains_s2a_msi=1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+gains_s2b_msi=1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+merge_tiles=False
+rgb_rhot=False
+rgb_rhos=True
+map_l2w=False
+map_title=True
+map_colorbar=True
+map_colorbar_orientation=vertical
+map_auto_range=False
+map_fillcolor=LightGrey
+rgb_red_wl=660
+rgb_green_wl=560
+rgb_blue_wl=480
+rgb_min=0.0,0.0,0.0
+rgb_max=0.15,0.15,0.15
+rgb_pan_sharpen=False
+map_projected=False
+map_raster=False
+map_scalebar=True
+map_scalepos=UL
+map_scalecolor=White
+map_scalecolor_rgb=White
+map_scalelen=None
+map_colorbar_edge=True
+map_max_dim=1000
+map_points=None
+l1r_nc_compression=True
+l2r_nc_compression=True
+l2w_nc_compression=True
+l2r_export_geotiff=False
+l2w_export_geotiff=False
+output=W:\Satellite\S2\L2\Lakes\Gjende\acolite
+runid=20201015_092000
+limit= 61.43548448461356,8.400421142578125,61.50468273587153,8.830947875976562
