@@ -6,6 +6,7 @@
 *.SEN3
 *.SEN3.zip
 *.log
+credentials/creds.py
 
 *.rgb
 .project
